@@ -10,8 +10,6 @@ El primer reto con el cual me cruce, fue utilizar el campo <b>conversion_rates</
   }
   }
 
-Siendo sincero, no considero que sea la manera correcta de utilizar los datos Json con Gson, no obstante, para esté caso funcionó. Si lees esto y tienes una mejor forma de implementar la respuesta de una solicitud de una clase anidada, por favor enviame un mensaje al correo: mangaka.orozco@gmail.com. Espero poder aprender algo nuevo. Si no es el caso, espero haberte ayudado dándote una idea de como puedes manejar esté tipo de situaciones.
-
 <h1>Guía de Usuario</h1>
 El conversor de Divisas funciona utilizando la API de https://www.exchangerate-api.com/. En el código aparecerá mi clave para usarla, sin embargo, recomiendo usar la propia ya que solo es para fines educativos.
 
